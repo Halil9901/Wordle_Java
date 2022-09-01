@@ -5,3 +5,6 @@ This wordle has two variants of the game. One way is to use the Graphical User I
 ## Model-View-Controller pattern 
 MVC was used as it allows the application to be broken into three main components, Model, View and Controller. This Pattern minimises repeated code and allows both GUI and CLI versions of the game to use the same model.
 
+##Screenshots
+![Screenshot](Screenshot_1.png)
+![Screenshot](Screenshot_2.png)
